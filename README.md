@@ -12,4 +12,4 @@ You can launch the app locally from the directory by opening the file "index.htm
 
 ##Additional Tests
 
-I have added an additional suite of tests called "Remove Feed" that tests the implementation of a clickable span of "Remove" text on each "Feed Menu" item. This feature would remove a feed from the list when clicked.  Tests in these suite would verify the presence of a required "remove" class in the list items, presence and effectiveness of "removeFeed" and "refreshFeed" functions, and test the full implementation with a triggered "click" event on a "Remove" text.
+I have added an additional suite of tests called "Remove Feed" that tests the implementation of a clickable span of "Remove" text on each "Feed Menu" item. This feature would remove a feed from the list when clicked.  Tests in this suite would verify the presence of a required "remove" class in the list items, presence and effectiveness of "removeFeed" and "refreshFeed" functions, and test the full implementation of the finishd feature with a Jquery-triggered "click" event on the "Remove" text in one of the Feed List list items.
